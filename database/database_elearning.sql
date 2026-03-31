@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Máy chủ: 127.0.0.1
--- Thời gian đã tạo: Th3 23, 2026 lúc 08:03 AM
+-- Thời gian đã tạo: Th3 31, 2026 lúc 06:43 PM
 -- Phiên bản máy phục vụ: 10.4.32-MariaDB
 -- Phiên bản PHP: 8.2.12
 
@@ -45,30 +45,30 @@ INSERT INTO `activities` (`id`, `lesson_id`, `title`, `type`, `content`, `create
 (8, 4, 'Video Khái niệm HTML', 'video', 'https://youtu.be/nariwBqtRBo', '2025-12-20 07:08:14', 5),
 (9, 4, 'Củng cố_ Phần 2', 'quiz', '2', '2025-12-20 07:24:18', 9),
 (10, 4, 'Video Cấu trúc tệp HTML ', 'video', 'https://youtu.be/_XeZsmKGY2Q', '2025-12-20 07:34:19', 8),
-(12, 4, 'HD2_Thảo luận diễn đàng', 'label', 'Các em hãy vào phần diễn đàng để cùng nhau thảo luận về cấu trúc tệp HTML', '2025-12-20 07:51:34', 10),
+(12, 4, 'HD2_Thảo luận diễn đàn', 'label', 'Các em hãy vào phần diễn đàn để cùng nhau thảo luận về cấu trúc tệp HTML', '2025-12-20 07:51:34', 10),
 (14, 4, 'HD1_Video tương tác', 'label', 'Em hãy copy link này, mở sang tab khác để tham gia xem và làm video tương tác nhé!\r\nhttps://app.lumi.education/run/MYwpOG', '2025-12-20 07:57:54', 3),
 (15, 4, 'Hoạt động 2: Phần 2_Cấu trúc tệp HTML', 'header', '', '2025-12-20 07:59:15', 7),
 (16, 4, 'Hoạt động 2: Phần 3_Tìm hiểu về các phần mềm soạn thảo HTML ', 'header', '', '2025-12-20 07:59:49', 11),
 (17, 4, 'Bài đọc về phần mềm soạn thảo', 'file', '1766217641_Nội dung phần mềm soạn thảo văn bản.pdf', '2025-12-20 08:00:41', 12),
-(18, 4, 'HD2: Phần 3_Thảo luận diễn đàng', 'label', 'Em hãy truy cập vào diễn đàn và trả lời các câu hỏi sau:', '2025-12-20 08:01:47', 13),
+(18, 4, 'HD2: Phần 3_Thảo luận diễn đàn', 'label', 'Em hãy truy cập vào diễn đàn và trả lời các câu hỏi sau:', '2025-12-20 08:01:47', 13),
 (20, 4, 'Trắc nghiệm củng cố', 'quiz', '3', '2025-12-20 08:36:57', 14),
 (22, 4, 'PPT_tóm tắt lý thuyết', 'file', '1766220140_PPT_Tóm tắt lý thuyết .pptx.pdf', '2025-12-20 08:42:20', 1),
 (23, 4, 'HOẠT ĐỘNG 3: PHÂN TÍCH CẤU TRÚC FILE HTML', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLSfw-u1bGpo3SgB3sQxabtay_VT89T-qIxiKSrGK3LFG-IJ66Q/formResponse', '2025-12-20 08:44:26', 16),
 (24, 4, 'Rubric_Đánh giá phần tìm hiểu phân tích cấu trúc file HTML', 'file', '1766220389_rubric pht2-2.pdf', '2025-12-20 08:46:29', 18),
-(25, 4, 'Hoạt động3: PHÂN TÍCH VÀ SỬA LỖI MÃ HTML', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLSeN-mNepOSHurAuaNwmtFmGVaNvkTul-Zl40iMHb78KdYA-mg/formResponse', '2025-12-20 08:47:30', 17),
+(25, 4, 'Hoạt động 3: PHÂN TÍCH VÀ SỬA LỖI MÃ HTML', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLSeN-mNepOSHurAuaNwmtFmGVaNvkTul-Zl40iMHb78KdYA-mg/formResponse', '2025-12-20 08:47:30', 17),
 (26, 4, 'Kiểm tra cuối bài ', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLSeVdNa2_GcLUfdTbkepJooJMQBNX6imH9MFTpq1CGiH8x44iw/formResponse', '2025-12-20 08:48:42', 19),
 (27, 6, 'Giới thiệu chung', 'file', '1766319180_GIỚI THIỆU CHUNG .pdf', '2025-12-21 12:13:00', 0),
-(28, 6, 'HD 1: Diễn đàng', 'label', 'Trước khi đi sâu hơn vào phần bài học hãy những  hiểu biết của bản thân thông qua thảo luận cùng nhau ở diễn đàng Bài 2_ Hoạt động 1 nhé !!!', '2025-12-21 12:15:07', 3),
+(28, 6, 'HD 1: Diễn đàn', 'label', 'Trước khi đi sâu hơn vào phần bài học hãy những  hiểu biết của bản thân thông qua thảo luận cùng nhau ở diễn đàn Bài 2_ Hoạt động 1 nhé !!!', '2025-12-21 12:15:07', 3),
 (29, 6, 'Hoạt động 2_Phần 1', 'video', 'https://youtu.be/IRJ3mnUchww', '2025-12-21 12:18:54', 4),
 (30, 6, 'PPT: Tìm hiểu tên và các thẻ chứa thuộc tính', 'file', '1766319645_Thuộc tính HTML.pptx.pdf', '2025-12-21 12:20:45', 6),
-(31, 6, 'HD2: Phần 1_Diễn đàng', 'label', 'Hãy cùng nhau thảo luận xem thuộc tính và chức năng của thuộc tính trong thẻ \r\nCác em hãy truy cập diễn đàng để cùng nhau tìm hiểu', '2025-12-21 12:22:46', 7),
+(31, 6, 'HD2: Phần 1_Diễn đàn', 'label', 'Hãy cùng nhau thảo luận xem thuộc tính và chức năng của thuộc tính trong thẻ \r\nCác em hãy truy cập diễn đàn để cùng nhau tìm hiểu', '2025-12-21 12:22:46', 7),
 (32, 6, 'Hoạt động 2_Phần 1: Kiểm tra ngắn', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLScV_EsQY6h5nP7Sb_ze68xvXXDjWab1Z-P4_khXI_R2KzLaAA/formResponse', '2025-12-21 12:24:24', 8),
 (34, 6, 'Hoạt động 2_Phần 2: Video_Định dạng văn bản_Định dạng tiêu đề ', 'video', 'https://youtu.be/Df-PCWGXA34', '2025-12-21 12:26:39', 10),
 (35, 6, 'Hoạt động 2_Phần2: Video_Định dạng văn bản_Định dạng đoạn văn bản', 'video', 'https://youtu.be/DHEURH1aIwQ', '2025-12-21 12:27:44', 11),
 (37, 6, 'Hoạt động 2_Phần 2: Video_Định dạng phông chữ_Định dạng kiểu chữ, kiểu chữ', 'video', 'https://youtu.be/Rd-85yWMNSk', '2025-12-21 12:29:05', 12),
 (38, 6, 'Hoạt động 2_Phần 2: Video_Định dạng phông chữ_Định dạng phông chữ', 'video', 'https://youtu.be/ZGiffqBE56A', '2025-12-21 12:29:24', 13),
 (39, 6, 'PPT_Tóm tắt lý thuyết bài 2', 'file', '1766320213_PPT_Tóm tắ lý thuyết bài 2.pptx.pdf', '2025-12-21 12:30:13', 1),
-(40, 6, 'Hoạt động 3: Diễn đàng', 'label', 'Hãy truy cập vào diễn đàng và thảo luận hoạt động 3 này nhé', '2025-12-21 12:31:28', 16),
+(40, 6, 'Hoạt động 3: Diễn đàn', 'label', 'Hãy truy cập vào diễn đàn và thảo luận hoạt động 3 này nhé', '2025-12-21 12:31:28', 16),
 (41, 6, 'Hoạt động 4: hướng dẫn tạo và lưu file HTML  GG colab', 'file', '1766320503_HƯỚNG DẪN TẠO VÀ LƯU FILE HTML TRÊN GOOGLE COLAB.docx.pdf', '2025-12-21 12:35:03', 18),
 (42, 6, 'Hoạt động 4: Thực hành nhiệm vụ', 'file', '1766320555_PDF_ PHIẾU NHIẸM VỤ.pdf', '2025-12-21 12:35:55', 19),
 (44, 6, 'Hoạt động 4: Nộp sản phẩm', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLScTLYwSt8Pcxr_uwAwnz-XFguTqhsOpRc9L2SA8t5GUavi97Q/viewform', '2025-12-21 12:37:41', 20),
@@ -76,7 +76,7 @@ INSERT INTO `activities` (`id`, `lesson_id`, `title`, `type`, `content`, `create
 (46, 4, 'Hoạt động 1: Khởi động', 'header', '', '2025-12-30 02:38:12', 2),
 (47, 7, 'Giới thiệu chung', 'file', '1767253938_GIỚI THIỆU CHUNG.pdf', '2026-01-01 07:52:18', 0),
 (48, 7, 'Hoạt động 1: Khởi động', 'header', '', '2026-01-01 07:53:06', 2),
-(49, 7, 'HD1_Diễn Đàng', 'label', 'Trước khi vào bài học các em hãy tìm hiểu và chia sẻ những hiểu biết của mình ở diễn đàng Bài 3_HD1', '2026-01-01 07:55:46', 3),
+(49, 7, 'HD1_Diễn Đàn', 'label', 'Trước khi vào bài học các em hãy tìm hiểu và chia sẻ những hiểu biết của mình ở diễn đàn Bài 3_HD1', '2026-01-01 07:55:46', 3),
 (50, 7, 'Hoạt động 2_Phần 1: Tạo danh sách', 'header', '', '2026-01-01 08:00:10', 4),
 (51, 7, 'Danh sách có thứ tự', 'video', 'https://youtu.be/0EnbOPOUM3w\r\n', '2026-01-01 08:00:40', 5),
 (52, 7, 'Danh sách không có thứ tự', 'video', 'https://youtu.be/QPZfqPQc5vE', '2026-01-01 08:01:26', 6),
@@ -87,7 +87,7 @@ INSERT INTO `activities` (`id`, `lesson_id`, `title`, `type`, `content`, `create
 (57, 7, 'Cấu trúc và tạo bảng', 'video', 'https://youtu.be/9i0g2Q3PAmw', '2026-01-01 08:10:23', 11),
 (58, 7, 'Định dạng bảng', 'video', 'https://youtu.be/Lx34LSfrvlY', '2026-01-01 08:10:38', 12),
 (59, 7, 'Định dạng bảng (sử dụng thuộc tính style)', 'video', 'https://youtu.be/3WTLtugH8qk', '2026-01-01 08:11:00', 13),
-(60, 7, 'HD2_Diễn Đàng', 'label', 'Em hãy truy cập vào diễn đàn thảo luận các câu hỏi:', '2026-01-01 08:11:49', 14),
+(60, 7, 'HD2_Diễn Đàn', 'label', 'Em hãy truy cập vào diễn đàn thảo luận các câu hỏi:', '2026-01-01 08:11:49', 14),
 (61, 7, 'Bài kiểm tra thường xuyên_Phần 2', 'quiz', '5', '2026-01-01 08:22:51', 15),
 (62, 7, 'PPT_Tóm tắt lý thuyết Bài 3', 'file', '1767255843_PPT_Tóm tắt lý thuyết_Bài 3.pptx.pdf', '2026-01-01 08:24:03', 1),
 (63, 7, 'Hoạt động 3: Thực hành_Phần 1', 'header', '', '2026-01-01 08:25:14', 16),
@@ -96,7 +96,7 @@ INSERT INTO `activities` (`id`, `lesson_id`, `title`, `type`, `content`, `create
 (66, 7, 'Hoạt động 3: Thực hành_Phần 2', 'header', '', '2026-01-01 08:26:43', 19),
 (67, 7, 'Nhiệm vụ 2', 'file', '1767256041_PHIẾU NHIỆM VỤ 2.pdf', '2026-01-01 08:27:21', 20),
 (68, 7, 'Nộp_Nhiệm vụ 2', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLSfeQfXm-0XLSZ6WS1rucKefL2AYqBD6tqE6CNsgkX3XfTPWjA/viewform', '2026-01-01 08:27:42', 21),
-(69, 7, 'Ôn tập Bài 3: Tạo danh sách, Bảng', 'google_form', 'https://docs.google.com/forms/d/103asquge9p-w5jUtzfhtGBHm5hpKJwZryzVHF4uBOt8/edit', '2026-01-01 08:31:03', 23),
+(69, 7, 'Ôn tập Bài 3: Tạo danh sách, Bảng', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLScfpMZpUfVd3jWaiVWQ7po2ZtYD6LzWmirrByH7LtGUhF5xbw/viewform', '2026-01-01 08:31:03', 23),
 (70, 7, 'Cuối khóa', 'header', '', '2026-01-01 08:31:17', 22),
 (71, 8, 'HD1_Video tương tác', 'label', 'Em hãy copy link này, mở sang tab khác để tham gia xem và làm video tương tác nhé!\r\nhttps://app.lumi.education/run/MTdLco\r\n', '2026-01-01 08:34:50', 3),
 (72, 8, 'Giới thiệu chung', 'file', '1768213204_PDF giới thiệu chung.pdf', '2026-01-01 09:04:12', 0),
@@ -104,7 +104,7 @@ INSERT INTO `activities` (`id`, `lesson_id`, `title`, `type`, `content`, `create
 (74, 8, 'Hoạt động 1: Khởi động', 'label', '', '2026-01-01 09:05:08', 2),
 (75, 8, 'Hoạt động 2: Phần 1_Tìm hiểu về đặc điểm của siêu văn bản và đường dẫn', 'header', '', '2026-01-01 09:05:52', 4),
 (76, 8, 'Bài giảng về siêu văn bản và đường dẫn', 'video', 'https://youtu.be/j8rl-sdt9Uw', '2026-01-01 09:06:38', 5),
-(77, 8, 'HD2: Phần 1_Diễn đàng', 'label', 'Các em hãy truy cập vào diễn đàng để cùng nhau tìm hiểu và thảo luận về:  Phân biệt đường dẫn\r\n', '2026-01-01 09:07:48', 6),
+(77, 8, 'HD2: Phần 1_Diễn đàn', 'label', 'Các em hãy truy cập vào diễn đàn để cùng nhau tìm hiểu và thảo luận về:  Phân biệt đường dẫn\r\n', '2026-01-01 09:07:48', 6),
 (78, 8, 'Bài kiểm tra thường xuyên_Phần 1', 'quiz', '6', '2026-01-01 09:17:18', 7),
 (79, 8, 'Hoạt động 2: Phần 2_Các loại liên kết', 'header', '', '2026-01-01 09:18:28', 8),
 (80, 8, 'Các loại liên kết', 'video', 'https://youtu.be/jRYO-KLqd0Y', '2026-01-01 09:18:51', 9),
@@ -125,7 +125,7 @@ INSERT INTO `activities` (`id`, `lesson_id`, `title`, `type`, `content`, `create
 (95, 8, 'Ôn tập cuối bài', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLSdfGliuGTnu0F2JIesePDA5FmLtHRzJkdf5NsShybPQdrqQnQ/viewform', '2026-01-01 09:42:07', 24),
 (96, 9, 'Giới thiệu chung', 'file', '1767363760_GIỚI THIỆU CHUNG.pdf', '2026-01-02 14:22:40', 0),
 (97, 9, 'Hoạt động 1: Khởi động', 'header', '', '2026-01-02 14:24:13', 2),
-(98, 9, 'HD 1_Diễn đàng', 'label', 'Trước khi đi vào nội dung bài học các em hãy chia sẻ những gì mình hiểu biết và trải nghiệm ở diễn đàng.', '2026-01-02 14:24:28', 3),
+(98, 9, 'HD 1_Diễn đàn', 'label', 'Trước khi đi vào nội dung bài học các em hãy chia sẻ những gì mình hiểu biết và trải nghiệm ở diễn đàn.', '2026-01-02 14:24:28', 3),
 (99, 9, 'Hoạt động 2: Phần 1_Tìm hiểu về cách chèn tệp ảnh vào trang web ', 'header', '', '2026-01-02 14:27:16', 4),
 (100, 9, 'Hoạt động 2: Phần 2_Tìm hiểu chèn âm thanh và video vào trang web ', 'header', '', '2026-01-02 14:27:38', 8),
 (101, 9, 'Hoạt động 2: Phần 3_Tìm hiểu về tạo khung nội tuyến trong trang web', 'header', '', '2026-01-02 14:28:07', 12),
@@ -148,7 +148,7 @@ INSERT INTO `activities` (`id`, `lesson_id`, `title`, `type`, `content`, `create
 (118, 11, 'Giới thiệu chung', 'file', '1767451050_GT CHUNG.pdf', '2026-01-03 14:37:30', 0),
 (119, 11, 'PPT_Tóm tắt lý thuyết', 'file', '1767451082_PPT_TOM TAT LT_BÀI 6.pptx.pdf', '2026-01-03 14:38:02', 1),
 (120, 11, 'Hoạt động 1: Khởi động', 'header', '', '2026-01-03 14:39:06', 2),
-(121, 11, 'HD1_Diễn đàng', 'label', 'Trước khi vào nội dung bài học các em hãy cùng nhau thảo luận và chia sẻ hiểu biết ở phần diễn đàng Bài 6_HD1', '2026-01-03 14:40:01', 3),
+(121, 11, 'HD1_Diễn đàn', 'label', 'Trước khi vào nội dung bài học các em hãy cùng nhau thảo luận và chia sẻ hiểu biết ở phần diễn đàn Bài 6_HD1', '2026-01-03 14:40:01', 3),
 (122, 11, 'Hoạt động 2: Phần 1_Tìm hiểu về nhập dữ liệu thông qua biểu mẫu ', 'header', '', '2026-01-03 15:11:23', 4),
 (123, 11, 'Tài liệu: Phần 1_Tìm hiểu về nhập dữ liệu thông qua biểu mẫu ', 'file', '1767453120_PDF LT.pdf', '2026-01-03 15:12:00', 5),
 (124, 11, 'Tạo biểu mẫu đăng nhập', 'video', 'https://youtu.be/RHXobG0Rnbc', '2026-01-03 15:15:23', 7),
@@ -176,7 +176,7 @@ INSERT INTO `activities` (`id`, `lesson_id`, `title`, `type`, `content`, `create
 (147, 14, 'Giới thiệu chung', 'file', '1767455709_PDF Giới thiệu chung.pdf', '2026-01-03 15:55:09', 1),
 (148, 14, 'PPT_Tóm tắt lý thuyết', 'file', '1767455757_PPT_TÓM TẮT LÝ THUYẾT_BÀI 8.pptx.pdf', '2026-01-03 15:55:57', 2),
 (149, 14, 'Hoạt động 1: Khởi động', 'header', '', '2026-01-03 15:56:31', 3),
-(150, 14, 'HD1_Diễn đàng', 'label', 'Các em hãy vào diễn đàng để thảo luận câu hỏi', '2026-01-03 15:57:04', 4),
+(150, 14, 'HD1_Diễn đàn', 'label', 'Các em hãy vào diễn đàn để thảo luận câu hỏi', '2026-01-03 15:57:04', 4),
 (151, 14, 'Hoạt động 2: Bảng định dạng CSS', 'header', '', '2026-01-03 16:07:06', 5),
 (152, 14, 'Khái niệm giới thiệu định dạng CSS', 'video', 'https://youtu.be/a9woPTjgllk\r\n', '2026-01-03 16:07:31', 6),
 (153, 14, 'Hoạt động 2: Phần 1_Khai báo bộ chọn phần tử và áp dụng CSS', 'header', '', '2026-01-03 16:08:03', 7),
@@ -186,7 +186,7 @@ INSERT INTO `activities` (`id`, `lesson_id`, `title`, `type`, `content`, `create
 (157, 14, 'ÔN TẬP KHAI BÁO VÀ ÁP DỤNG CSS', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLSdBxLTTI-3RcYdEhPelhTxSkeH62JRCSrkNp2vmPzKnIieSNg/formResponse', '2026-01-03 16:09:41', 11),
 (158, 14, 'Hoạt động 2: Phần 2_Một số thuộc tính định dạng CSS ', 'header', '', '2026-01-03 16:10:12', 12),
 (159, 14, 'Thuộc tính CSS', 'video', 'https://youtu.be/BIN3jRoP5qs', '2026-01-03 16:10:30', 13),
-(160, 14, 'HD2_Diễn đàng', 'label', 'Các em hãy vào diễn đàng để thảo luận câu hỏi ở HD2_Phần 2', '2026-01-03 16:11:16', 14),
+(160, 14, 'HD2_Diễn đàn', 'label', 'Các em hãy vào diễn đàn để thảo luận câu hỏi ở HD2_Phần 2', '2026-01-03 16:11:16', 14),
 (161, 14, 'Bài kiểm tra thường xuyên_Phần 2', 'quiz', '14', '2026-01-03 16:18:59', 15),
 (162, 14, 'Hoạt động 3: Củng cố kiến thức về các thuộc tính cơ bản ', 'header', '', '2026-01-03 16:20:30', 16),
 (163, 14, 'Nhiệm vụ ', 'file', '1767457255_PDF phiếu nhiệm vụ.pdf', '2026-01-03 16:20:55', 17),
@@ -224,11 +224,11 @@ INSERT INTO `activities` (`id`, `lesson_id`, `title`, `type`, `content`, `create
 (197, 16, 'Hoạt động 2: Phần 1_Bộ chọn lớp ', 'header', '', '2026-01-04 05:30:05', 4),
 (198, 16, 'Video_Giới thiệu', 'video', 'https://youtu.be/R0Tn5UmiKJ4', '2026-01-04 05:30:28', 5),
 (199, 16, 'Video_Bộ chọn lớp', 'video', 'https://youtu.be/rC7u1nYKMSw', '2026-01-04 05:30:53', 6),
-(200, 16, 'HD2_Diễn đàng', 'label', 'Các em hãy truy cập diễn đàng để thảo luận và trả lời câu hỏi ở HD2_phần 1', '2026-01-04 05:31:37', 7),
+(200, 16, 'HD2_Diễn đàn', 'label', 'Các em hãy truy cập diễn đàn để thảo luận và trả lời câu hỏi ở HD2_phần 1', '2026-01-04 05:31:37', 7),
 (201, 16, 'Kiểm tra nhanh', 'quiz', '17', '2026-01-04 05:39:03', 8),
 (202, 16, 'Hoạt động 2: Phần 2_Bộ chọn định danh', 'header', '', '2026-01-04 05:39:43', 9),
 (203, 16, 'Video_Bộ chọn ID', 'video', 'https://youtu.be/nXNQQG7sIW0', '2026-01-04 05:40:01', 10),
-(204, 16, 'HD 2_Diễn đàng', 'label', 'Các em hãy truy cập diễn đàng để thảo luận và trả lời câu hỏi ở HD 2_phần 2', '2026-01-04 05:40:31', 11),
+(204, 16, 'HD 2_Diễn đàn', 'label', 'Các em hãy truy cập diễn đàn để thảo luận và trả lời câu hỏi ở HD 2_phần 2', '2026-01-04 05:40:31', 11),
 (205, 16, 'Hoạt động 3: Vận dụng', 'header', '', '2026-01-04 05:43:41', 12),
 (206, 16, 'Nhiệm vụ 1', 'file', '1767505502_PDF PHIẾU NHIỆM VỤ 1.pdf', '2026-01-04 05:45:02', 13),
 (207, 16, 'Nộp_Nhiệm vụ 1', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLSddZDN2OAfx6h6tFecCJuMlPU7j33Btn39V8XKuhRAR4jFArQ/viewform', '2026-01-04 05:45:30', 14),
@@ -239,9 +239,9 @@ INSERT INTO `activities` (`id`, `lesson_id`, `title`, `type`, `content`, `create
 (212, 17, 'Giới thiệu chung', 'file', '1767506101_PDF GIỚI THIỆU CHUNG.pdf', '2026-01-04 05:55:01', 0),
 (213, 17, 'PPT_Tóm tắt lý thuyết', 'file', '1767506127_PPT_LT BÀI 11.pptx.pdf', '2026-01-04 05:55:27', 1),
 (214, 17, 'Hoạt động 1: Khởi động', 'header', '', '2026-01-04 05:56:15', 2),
-(215, 17, 'HD1_Diễn đàng', 'label', 'Các em hãy qua trang diễn đàng thảo luận và trả lời câu hỏi ở HD1 ', '2026-01-04 05:56:45', 3),
+(215, 17, 'HD1_Diễn đàn', 'label', 'Các em hãy qua trang diễn đàn thảo luận và trả lời câu hỏi ở HD1 ', '2026-01-04 05:56:45', 3),
 (216, 17, 'Hoạt động 2: Phần 1_Một hình hộp trong trình bày phần tử HTML ', 'header', '', '2026-01-04 05:59:47', 4),
-(217, 17, 'HD2_Diễn đàng', 'label', 'Các em hãy qua trang diễn đàng thảo luận và trả lời ở HD2_phần 1\r\n', '2026-01-04 06:01:10', 5),
+(217, 17, 'HD2_Diễn đàn', 'label', 'Các em hãy qua trang diễn đàn thảo luận và trả lời ở HD2_phần 1\r\n', '2026-01-04 06:01:10', 5),
 (218, 17, 'Video mô hình hộp ', 'video', 'https://youtu.be/R0TEl5xYONI', '2026-01-04 06:02:58', 6),
 (219, 17, 'Bài kiểm tra nhanh', 'quiz', '18', '2026-01-04 06:15:33', 7),
 (220, 17, 'Hoạt động 2: Phần 2_ Hiển thị phần tử theo khối, theo dòng ', 'header', '', '2026-01-04 06:16:53', 8),
@@ -274,20 +274,20 @@ INSERT INTO `activities` (`id`, `lesson_id`, `title`, `type`, `content`, `create
 (247, 18, 'Nộp sản phẩm', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLSeGICeX44Fq9Y-Hc-yXkHcad_ze2iVSPnds8ulEDcmF8dKI6g/viewform', '2026-01-04 07:25:14', 15),
 (248, 19, 'Giới thiệu chung', 'file', '1767612670_giới thiệu chung.pdf', '2026-01-05 11:31:10', 0),
 (249, 19, 'Hoạt động 1: Khởi động', 'header', '', '2026-01-05 11:31:33', 2),
-(250, 19, 'HD1_Diễn đàng', 'label', 'Trước khi tìm hiểu sâu hơn về học máy các em hãy cùng nhau thảo luận và trả lời câu hỏi ở Diễn đàng Bài 1: HD1 (CS)', '2026-01-05 11:32:50', 3),
+(250, 19, 'HD1_Diễn đàn', 'label', 'Trước khi tìm hiểu sâu hơn về học máy các em hãy cùng nhau thảo luận và trả lời câu hỏi ở Diễn đàng Bài 1: HD1 (CS)', '2026-01-05 11:32:50', 3),
 (251, 19, 'Hoạt động 2: Phần 1_Khái niệm về học máy ', 'header', '', '2026-01-05 11:37:49', 4),
 (252, 19, 'Hoạt động 2: Phần 2_Học có giám sát', 'header', '', '2026-01-05 11:38:03', 8),
 (253, 19, 'Hoạt động 2: Phần 4_Một số ứng dụng của học máy', 'header', '', '2026-01-05 11:38:26', 15),
-(254, 19, 'HD2: Phần 1_Diễn đàng', 'label', 'Các em hãy vào diễn đàng để trả lời các câu hỏi ở HD2: Phần 1 (CS)', '2026-01-05 11:39:29', 5),
+(254, 19, 'HD2: Phần 1_Diễn đàn', 'label', 'Các em hãy vào diễn đàn để trả lời các câu hỏi ở HD2: Phần 1 (CS)', '2026-01-05 11:39:29', 5),
 (255, 19, 'Video: Khái niệm Học máy', 'video', 'https://youtu.be/8Wyz19vpHDM', '2026-01-05 11:40:39', 6),
 (256, 19, 'Bài kiểm nhanh', 'quiz', '21', '2026-01-05 11:45:30', 7),
 (257, 19, 'Video: Học có giám sát', 'video', 'https://youtu.be/I8R5RkF7aQA', '2026-01-05 11:46:09', 9),
-(258, 19, 'HD2: Phần 2_Diễn đàng', 'label', 'Các em hãy vào diễn đàng để trả lời các câu hỏi ở HD2: Phần 2 (CS)', '2026-01-05 11:46:55', 10),
+(258, 19, 'HD2: Phần 2_Diễn đàn', 'label', 'Các em hãy vào diễn đàn để trả lời các câu hỏi ở HD2: Phần 2 (CS)', '2026-01-05 11:46:55', 10),
 (259, 19, 'Củng cố bài học nhanh', 'quiz', '22', '2026-01-05 11:51:24', 11),
-(260, 19, 'HD2: Phần 3_Diễn đàng', 'label', 'Các em hãy vào diễn đàng để trả lời các câu hỏi ở HD2: Phần 3 (CS)', '2026-01-05 11:52:09', 13),
+(260, 19, 'HD2: Phần 3_Diễn đàn', 'label', 'Các em hãy vào diễn đàn để trả lời các câu hỏi ở HD2: Phần 3 (CS)', '2026-01-05 11:52:09', 13),
 (261, 19, 'Video: Học không giám sát', 'video', 'https://youtu.be/-vn6TFVxoA8', '2026-01-05 11:53:17', 14),
 (262, 19, 'Hoạt động 2: Phần 3_Học không giám sát', 'header', '', '2026-01-05 11:54:20', 12),
-(263, 19, 'HD2: Phần 4_Diễn đàng', 'label', 'Các em hãy vào diễn đàng để trả lời các câu hỏi ở HD2: Phần 4 (CS)', '2026-01-05 11:55:10', 16),
+(263, 19, 'HD2: Phần 4_Diễn đàn', 'label', 'Các em hãy vào diễn đàn để trả lời các câu hỏi ở HD2: Phần 4 (CS)', '2026-01-05 11:55:10', 16),
 (264, 19, 'Video: Một số ứng dụng của học máy', 'video', 'https://youtu.be/2Zj0YN6VVUg', '2026-01-05 11:56:09', 17),
 (265, 19, 'PPT_Tóm tắt lý thuyết', 'file', '1767614203_PPT_LT.pptx.pdf', '2026-01-05 11:56:43', 1),
 (266, 19, 'Củng cố bài học', 'quiz', '23', '2026-01-05 12:20:41', 18),
@@ -295,28 +295,28 @@ INSERT INTO `activities` (`id`, `lesson_id`, `title`, `type`, `content`, `create
 (268, 20, 'Hoạt động 1: Khởi động', 'header', '', '2026-01-07 11:10:09', 2),
 (269, 20, 'Lưu ý:', 'label', 'Các em cần sao chép đường link sao trình duyệt khác để tham gia trò chơi: https://app.lumi.education/run/q8vDia ', '2026-01-07 11:11:24', 3),
 (270, 20, 'Hoạt động 2: Phần 1_Khoa học dữ liệu ', 'header', '', '2026-01-07 11:12:44', 4),
-(271, 20, 'HD2: Phần 1_ Diễn đàng', 'label', 'Trước khi chúng ta bước vào nội dung bài học các em hãy chia sẻ những hiểu biết của mình về cụm từ khoá  “Các lĩnh vực nghiên cứu của khoa học dữ liệu”, ở diễn đàng Bài 2_Hoạt động 2_Phần 1 (CS)', '2026-01-07 11:14:12', 5),
+(271, 20, 'HD2: Phần 1_ Diễn đàn', 'label', 'Trước khi chúng ta bước vào nội dung bài học các em hãy chia sẻ những hiểu biết của mình về cụm từ khoá  “Các lĩnh vực nghiên cứu của khoa học dữ liệu”, ở diễn đàng Bài 2_Hoạt động 2_Phần 1 (CS)', '2026-01-07 11:14:12', 5),
 (272, 20, 'Video_Khái niệm khoa học dữ liệu', 'video', 'https://youtu.be/079jhXNNUS0', '2026-01-07 11:15:33', 6),
 (273, 20, 'Bài kiểm tra nhanh', 'quiz', '24', '2026-01-07 11:20:04', 7),
 (274, 20, 'Hoạt động 2: Phần 2_Một số thành tựu của khoa học dữ liệu ', 'header', '', '2026-01-07 11:20:27', 8),
 (275, 20, 'Tài liệu về một số thành tựu của khoa học dữ liệu ', 'file', '1767784879_Tài liệu về một số thành tựu của khoa học dữ liệu .pdf', '2026-01-07 11:21:19', 9),
-(276, 20, 'HD2: Phần 2_Diễn đàng', 'label', 'Các em hãy vào diễn đàng bài 2: Hoạt động 2_Phần 2 (CS) để trả lời các câu hỏi.', '2026-01-07 11:22:42', 10),
+(276, 20, 'HD2: Phần 2_Diễn đàn', 'label', 'Các em hãy vào diễn đàn bài 2: Hoạt động 2_Phần 2 (CS) để trả lời các câu hỏi.', '2026-01-07 11:22:42', 10),
 (277, 20, 'PPT_Tóm tắt lý thuyết', 'file', '1767785085_PPT_LT BÀI 2 CS.pptx.pdf', '2026-01-07 11:24:45', 1),
 (278, 20, 'Hoạt động 3: Luyện tập', 'header', '', '2026-01-07 11:25:19', 11),
 (279, 20, 'Củng cố bài học nhanh', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLSfNX7zlVdrLZ6oS4fAVj179o6-Qt3msbTuvrmJuzQXv_nRZ8w/formResponse', '2026-01-07 11:25:53', 12),
 (280, 20, 'Hoạt động 4: Vận dung', 'header', '', '2026-01-07 11:26:13', 13),
-(281, 20, 'Nhiệm vụ ', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLSfNX7zlVdrLZ6oS4fAVj179o6-Qt3msbTuvrmJuzQXv_nRZ8w/formResponse', '2026-01-07 11:26:32', 14),
+(281, 20, 'Nhiệm vụ ', 'file', '1774975377_Phiếu nhiệm vụ.pdf', '2026-01-07 11:26:32', 14),
 (282, 20, 'Nộp_Nhiệm vụ', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLSe7ezrFf8DCd28GEe_bRI71FKsnB1K7AYjE9ezZZvTKfpQH_A/viewform', '2026-01-07 11:26:51', 15),
 (283, 20, 'Ôn tập kiến thức', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLScLz1SFaq1cCO0qyE8EIeqy_Y6SrFUtk-06qeu9O6vOxaRaaw/viewform', '2026-01-07 11:27:54', 16),
 (284, 21, 'Giới thiệu chung', 'file', '1767785615_PDF giới thiệu chung.pdf', '2026-01-07 11:33:35', 0),
 (285, 21, 'Hoạt động 1: Khởi động ', 'header', '', '2026-01-07 11:34:44', 2),
-(286, 21, 'HD1: Diễn đàng ', 'label', 'Trước khi vào bài học các em hãy vào diễn đàng Bài 3: Hoạt động 1 (CS) để thảo luận câu hỏi\r\n', '2026-01-07 11:35:39', 3),
+(286, 21, 'HD1: Diễn đàn', 'label', 'Trước khi vào bài học các em hãy vào diễn đàn Bài 3: Hoạt động 1 (CS) để thảo luận câu hỏi\r\n', '2026-01-07 11:35:39', 3),
 (287, 21, 'Hoạt động 2: Phần 1_Các đặc trưng của dữ liệu ', 'header', '', '2026-01-07 11:36:54', 4),
 (288, 21, 'Video_Các đặc trưng của dữ liệu', 'video', 'https://youtu.be/8E-G6s2mRAw', '2026-01-07 11:37:29', 5),
 (289, 21, 'Bài kiểm tra nhanh', 'quiz', '25', '2026-01-08 07:15:55', 6),
 (290, 21, 'Hoạt động 2: Phần 2_Phân tích dữ liệu, phát triển tri thức', 'header', '', '2026-01-08 07:16:29', 7),
 (291, 21, 'Video_Phân tích dữ liệu, phát triển tri thức', 'video', 'https://youtu.be/KXbKWb82-mo', '2026-01-08 07:16:59', 8),
-(292, 21, 'HD2: Diễn đàng', 'label', 'Các em hãy vào diễn đàng để thảo luận câu hỏi ở Bài 3: Hoạt động 2_Phần 2 (CS) ', '2026-01-08 07:17:53', 9),
+(292, 21, 'HD2: Diễn đàn', 'label', 'Các em hãy vào diễn đàn để thảo luận câu hỏi ở Bài 3: Hoạt động 2_Phần 2 (CS) ', '2026-01-08 07:17:53', 9),
 (293, 21, 'Bài kiểm tra nhanh', 'quiz', '26', '2026-01-08 07:23:02', 10),
 (294, 21, 'Hoạt động 2: Phần 3_Vai trò của máy tính và thuật toán ưu việt của khoa học dữ liệu ', 'header', '', '2026-01-08 07:23:27', 11),
 (295, 21, 'Video_Vai trò của khoa học dữ liệu', 'video', 'https://youtu.be/hDvHv29b_xw', '2026-01-08 07:24:08', 12),
@@ -326,7 +326,7 @@ INSERT INTO `activities` (`id`, `lesson_id`, `title`, `type`, `content`, `create
 (299, 21, 'Bài tập củng cố', 'assignment', 'Em hãy vẽ sơ đồ tư duy tổng hợp nội dung kiến thức của bài học \r\nNộp file: Bai 3 (CSS)_HD3_Họ tên_Lớp.pdf\r\n', '2026-01-08 07:30:30', 15),
 (300, 21, 'Bài tự luận ngắn', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLSdLS6yneiZnSPIud7QpvFN1w-TV7vpONbKbZM7I8sPkN1r_bA/formResponse', '2026-01-08 07:33:49', 16),
 (301, 21, 'Hoạt động 4: Vận dụng', 'header', '', '2026-01-08 07:34:15', 17),
-(302, 21, 'HD4: Diễn đàng', 'label', 'Các em hãy vào diễn đàng để thảo luận câu hỏi ở Bài 3: Hoạt động 4 (CS) ', '2026-01-08 07:34:40', 18),
+(302, 21, 'HD4: Diễn đàn', 'label', 'Các em hãy vào diễn đàn để thảo luận câu hỏi ở Bài 3: Hoạt động 4 (CS) ', '2026-01-08 07:34:40', 18),
 (303, 21, 'Ôn tập cuối bài', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLSck5SdXlVLPR_knVyVkL8QfxHsnzsm5lybYe-etvaDOspU69g/viewform', '2026-01-08 07:35:28', 19),
 (304, 22, 'Giới thiệu chung', 'file', '1767858001_PDF giới thiệu chung.pdf', '2026-01-08 07:40:01', 0),
 (305, 22, 'Lưu ý:', 'label', 'Các em cần sao chép đường link sao trình duyệt khác để tham gia trò chơi: \r\nhttps://app.lumi.education/run/EkbO5x', '2026-01-08 07:40:52', 2),
@@ -340,7 +340,7 @@ INSERT INTO `activities` (`id`, `lesson_id`, `title`, `type`, `content`, `create
 (313, 23, 'Video_Mô phỏng và phần mềm mô phỏng ', 'video', 'https://youtu.be/fsi4FIJq4Ro', '2026-01-08 07:54:22', 5),
 (314, 23, 'Kiểm tra nhanh', 'quiz', '28', '2026-01-08 07:58:51', 6),
 (315, 23, 'Hoạt động 2: Phần 2_Phần mềm mô phỏng trong một số lĩnh vực ', 'header', '', '2026-01-08 07:59:12', 7),
-(316, 23, 'HD2: Phần 2_Diễn đàng', 'label', 'Hãy truy cập vào diễn đàng Bài 5: Hoạt động 2_Phần 2 (CS) để thảo luận câu hỏi', '2026-01-08 08:00:16', 8),
+(316, 23, 'HD2: Phần 2_Diễn đàn', 'label', 'Hãy truy cập vào diễn đàn Bài 5: Hoạt động 2_Phần 2 (CS) để thảo luận câu hỏi', '2026-01-08 08:00:16', 8),
 (317, 23, 'Video_ Một số phần mềm mô phỏng trong một số lĩnh vực ', 'video', 'https://youtu.be/AOA6fywEVLU', '2026-01-08 08:01:27', 9),
 (318, 23, 'Kiểm tra nhanh', 'quiz', '29', '2026-01-08 08:14:24', 10),
 (319, 23, 'PPT_Tóm tắt lý thuyết', 'file', '1767860091_PPT_BAI5 CS.pptx.pdf', '2026-01-08 08:14:51', 1),
@@ -352,7 +352,7 @@ INSERT INTO `activities` (`id`, `lesson_id`, `title`, `type`, `content`, `create
 (325, 23, 'ÔN TẬP CUỐI BÀI', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLSeBcYEBE6DavB67xhcqVO2kjr0o2ZQEKb320X4Y38J-fdie3g/viewform', '2026-01-08 08:19:09', 16),
 (326, 24, 'Giới thiệu chung', 'file', '1767860483_Giới thiệu chung-18.pdf', '2026-01-08 08:21:23', 1),
 (327, 24, 'Hoạt động 1: Khởi động', 'header', '', '2026-01-08 08:21:48', 2),
-(328, 24, 'HD 1: Diễn đàng', 'label', 'Các em hãy vào diễn đàng Bài 6: Hoạt động 1 (CS) để thảo luận câu hỏi', '2026-01-08 08:22:33', 3),
+(328, 24, 'HD 1: Diễn đàn', 'label', 'Các em hãy vào diễn đàn Bài 6: Hoạt động 1 (CS) để thảo luận câu hỏi', '2026-01-08 08:22:33', 3),
 (329, 24, 'Hoạt động 2: Giới thiệu phần mềm Geogebra', 'header', '', '2026-01-08 08:23:22', 4),
 (330, 24, 'Tài liệu về phần mềm Geogebra', 'file', '1767860630_Giới thiệu phần mềm Geogebra.pdf', '2026-01-08 08:23:50', 5),
 (331, 24, 'Kiểm tra nhanh', 'quiz', '30', '2026-01-08 08:27:41', 6),
@@ -378,7 +378,7 @@ INSERT INTO `activities` (`id`, `lesson_id`, `title`, `type`, `content`, `create
 (351, 22, 'NỘP_SẢN PHẨM NHIỆM VỤ 1 ', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLSflDyniEn6GWORsM9HuzevhJBZd5YKLk8jAX6wv7NcWXW72Hw/viewform', '2026-01-12 10:41:52', 13),
 (352, 22, 'Nhiệm vụ 2', 'file', '1768214554_nhiệm vụ 2.pdf', '2026-01-12 10:42:34', 14),
 (353, 22, 'NỘP_SẢN PHẨM NHIỆM VỤ 2  ', 'google_form', 'https://docs.google.com/forms/d/e/1FAIpQLSf9uoWiBuwq2N6oF3BROuzh2jBs55hJWn9Fyes7KAl8gdVljw/viewform', '2026-01-12 10:43:03', 15),
-(354, 22, 'HD3_Diễn đàng', 'label', 'Các em hãy vào diễn đàng Bài 4: Hoạt động 3 (CS) để thảo luận câu hỏi', '2026-01-12 10:45:58', 16);
+(354, 22, 'HD3_Diễn đàn', 'label', 'Các em hãy vào diễn đàn Bài 4: Hoạt động 3 (CS) để thảo luận câu hỏi', '2026-01-12 10:45:58', 16);
 
 -- --------------------------------------------------------
 
@@ -465,7 +465,33 @@ INSERT INTO `activity_completions` (`id`, `user_id`, `lesson_id`, `activity_id`,
 (67, 7, 9, 107, '2026-03-15 11:05:52'),
 (70, 7, 4, 22, '2026-03-17 09:30:31'),
 (71, 7, 4, 9, '2026-03-17 09:31:01'),
-(73, 17, 11, 125, '2026-03-23 14:01:29');
+(73, 17, 11, 125, '2026-03-23 14:01:29'),
+(75, 8, 6, 28, '2026-03-30 00:03:49'),
+(76, 8, 6, 29, '2026-03-30 00:03:52'),
+(77, 8, 6, 30, '2026-03-30 00:04:13'),
+(78, 8, 6, 45, '2026-03-30 00:04:20'),
+(79, 8, 6, 44, '2026-03-30 00:04:22'),
+(80, 36, 4, 22, '2026-03-31 21:33:54'),
+(81, 36, 4, 14, '2026-03-31 21:34:05'),
+(82, 36, 4, 8, '2026-03-31 21:34:42'),
+(83, 36, 4, 183, '2026-03-31 21:34:59'),
+(84, 36, 4, 10, '2026-03-31 21:35:04'),
+(85, 36, 4, 9, '2026-03-31 21:35:05'),
+(87, 36, 4, 17, '2026-03-31 21:35:40'),
+(88, 36, 4, 23, '2026-03-31 21:35:47'),
+(89, 36, 4, 25, '2026-03-31 21:35:49'),
+(90, 8, 7, 65, '2026-03-31 22:40:35'),
+(91, 8, 7, 69, '2026-03-31 22:40:37'),
+(92, 8, 7, 68, '2026-03-31 22:42:18'),
+(93, 2, 7, 69, '2026-03-31 22:42:46'),
+(94, 2, 4, 183, '2026-03-31 22:45:59'),
+(95, 2, 4, 17, '2026-03-31 22:46:06'),
+(96, 2, 4, 26, '2026-03-31 22:46:09'),
+(97, 2, 4, 25, '2026-03-31 22:46:10'),
+(98, 2, 4, 23, '2026-03-31 22:46:12'),
+(99, 2, 9, 115, '2026-03-31 22:47:39'),
+(100, 2, 4, 14, '2026-03-31 22:47:46'),
+(101, 2, 20, 281, '2026-03-31 23:43:15');
 
 -- --------------------------------------------------------
 
@@ -486,7 +512,8 @@ CREATE TABLE `comments` (
 --
 
 INSERT INTO `comments` (`id`, `lesson_id`, `user_id`, `content`, `created_at`) VALUES
-(1, 4, 2, 'Hoạt động 1: Truy cập vào diễn đàn, em hãy trả lời 2 câu hỏi', '2025-12-18 08:26:40');
+(1, 4, 2, 'Hoạt động 1: Truy cập vào diễn đàn, em hãy trả lời 2 câu hỏi', '2025-12-18 08:26:40'),
+(2, 4, 36, 'Chúc các em học tốt\r\n', '2026-03-31 14:36:15');
 
 -- --------------------------------------------------------
 
@@ -527,6 +554,13 @@ CREATE TABLE `forum_likes` (
   `user_id` int(11) NOT NULL,
   `created_at` timestamp NOT NULL DEFAULT current_timestamp()
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Đang đổ dữ liệu cho bảng `forum_likes`
+--
+
+INSERT INTO `forum_likes` (`id`, `topic_id`, `user_id`, `created_at`) VALUES
+(15, 8, 36, '2026-03-31 14:36:50');
 
 -- --------------------------------------------------------
 
@@ -1077,7 +1111,8 @@ INSERT INTO `quiz_results` (`id`, `user_id`, `quiz_id`, `score`, `submitted_at`,
 (6, 7, 9, 3, '2026-03-15 04:06:10', 10),
 (7, 2, 16, 7.5, '2026-03-15 04:11:20', 12),
 (8, 7, 2, 6, '2026-03-17 02:32:11', 10),
-(9, 17, 11, 10, '2026-03-23 07:02:29', 10);
+(9, 17, 11, 10, '2026-03-23 07:02:29', 10),
+(10, 36, 2, 5, '2026-03-31 14:35:29', 10);
 
 -- --------------------------------------------------------
 
@@ -1170,7 +1205,10 @@ INSERT INTO `users` (`id`, `name`, `email`, `password_hash`, `role`, `class_name
 (30, 'Trương Trọng Thi', '12306@truong.edu.vn', '$2y$10$Rj1TF9VSwonrFbhJtVwRPOdSoAzdpLZmnBvRxtucOQcOJbFiT/.Je', 'student', '12A3', '2026-03-15 11:04:28', NULL),
 (31, 'Đinh Phương Trình', '12307@truong.edu.vn', '$2y$10$Rj1TF9VSwonrFbhJtVwRPOdSoAzdpLZmnBvRxtucOQcOJbFiT/.Je', 'student', '12A3', '2026-03-15 11:04:28', NULL),
 (32, 'Nguyễn Thị Lan', '12111@truong.edu.vn', '$2y$10$JStJNAMZveGZomo42fzaJeFfPWbXrh.hxljZYmkD9pvVMsGW3ERDu', 'student', '12A1', '2026-03-21 14:49:47', NULL),
-(33, 'Nguyễn Ngọc Anh', '12112@truong.edu.vn', '$2y$10$99f.Zm3t4oBsszpYWuavB.8FgDzfKPnbIrHuEQcQ7qoHXn6rAgf8.', 'student', '12A1', '2026-03-21 15:05:34', NULL);
+(33, 'Nguyễn Ngọc Anh', '12112@truong.edu.vn', '$2y$10$99f.Zm3t4oBsszpYWuavB.8FgDzfKPnbIrHuEQcQ7qoHXn6rAgf8.', 'student', '12A1', '2026-03-21 15:05:34', NULL),
+(34, 'Nguyễn Võ Đông ', 'tuyet123@gmail.com', '$2y$10$ThaAbGUU/OpzR0nV4lkrwOcWFxLHkQGILfCQTa.rNZWohztbCvJZy', 'student', '12A1', '2026-03-30 13:31:37', NULL),
+(35, 'Hồ Quỳnh Nga', 'Nga@gmail.com', '$2y$10$TpxfOeoME4SLVh5hFKH2bOHozRPCWzz1gGdU3eYeQfuh4NzmT4kfS', 'teacher', 'GV', '2026-03-31 21:32:17', NULL),
+(36, 'Nguyễn Quỳnh Trang', 'trang@gmail.com', '$2y$10$rHRgb58NLE9WpPZ/qoaJFeQ8OFvOqcaqGhSYUal97NE9eQZyy9H2C', 'student', '12A6', '2026-03-31 21:33:08', 'avatar_36_1774967849.png');
 
 --
 -- Chỉ mục cho các bảng đã đổ
@@ -1316,13 +1354,13 @@ ALTER TABLE `activities`
 -- AUTO_INCREMENT cho bảng `activity_completions`
 --
 ALTER TABLE `activity_completions`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=75;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=102;
 
 --
 -- AUTO_INCREMENT cho bảng `comments`
 --
 ALTER TABLE `comments`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 
 --
 -- AUTO_INCREMENT cho bảng `forum_images`
@@ -1334,7 +1372,7 @@ ALTER TABLE `forum_images`
 -- AUTO_INCREMENT cho bảng `forum_likes`
 --
 ALTER TABLE `forum_likes`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=15;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=16;
 
 --
 -- AUTO_INCREMENT cho bảng `forum_posts`
@@ -1388,7 +1426,7 @@ ALTER TABLE `quiz_questions`
 -- AUTO_INCREMENT cho bảng `quiz_results`
 --
 ALTER TABLE `quiz_results`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
 
 --
 -- AUTO_INCREMENT cho bảng `quiz_submissions`
@@ -1406,7 +1444,7 @@ ALTER TABLE `submissions`
 -- AUTO_INCREMENT cho bảng `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=34;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=37;
 
 --
 -- Các ràng buộc cho các bảng đã đổ
